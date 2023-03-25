@@ -1,2 +1,2 @@
-# index.htlm
+# index.html
 My project web
